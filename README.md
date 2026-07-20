@@ -84,5 +84,5 @@ Through this project, I gained practical experience in:
 
 **Aita Chandrika Devi**
 
-B.Sc. Computer Science Student
+
 
